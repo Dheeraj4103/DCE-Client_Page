@@ -5,336 +5,384 @@
         "city": "Colombo",
         "coordinates": [6.9271, 79.8612],
         "color": "red",
-        "type": "Food Processing"
+        "type": "Food Processing",
+        "img" : "https://1000logos.net/wp-content/uploads/2017/03/Nestle-Logo.png"
     },
     {
         "name": "Nestle India LTD",
         "city": "Ponda",
         "coordinates": [15.4027,74.0078],
         "color": "red",
-        "type": "Food Processing"
+        "type": "Food Processing",
+        "img" : "https://1000logos.net/wp-content/uploads/2017/03/Nestle-Logo.png"
     },
     {
         "name": "Nestle India LTD",
         "city": "Moga",
         "coordinates": [30.8230, 75.1734],
         "color": "red",
-        "type": "Food Processing"
+        "type": "Food Processing",
+        "img" : "https://1000logos.net/wp-content/uploads/2017/03/Nestle-Logo.png"
     },
     {
         "name": "Nestle India LTD",
         "city": "Nanjangud",
         "coordinates": [12.1160, 76.6782],
         "color": "red",
-        "type": "Food Processing"
+        "type": "Food Processing",
+        "img" : "https://1000logos.net/wp-content/uploads/2017/03/Nestle-Logo.png"
     },
     {
         "name": "Nestle India LTD",
         "city": "Pantnagar",
         "coordinates": [29.0222, 79.4908],
         "color": "red",
-        "type": "Food Processing"
+        "type": "Food Processing",
+        "img" : "https://1000logos.net/wp-content/uploads/2017/03/Nestle-Logo.png"
     },
     {
         "name": "Nestle India LTD",
         "city": "Choladi",
         "coordinates": [11.5543, 76.3880],
         "color": "red",
-        "type": "Food Processing"
+        "type": "Food Processing",
+        "img" : "https://1000logos.net/wp-content/uploads/2017/03/Nestle-Logo.png"
     },
     {
         "name": "Nestle India LTD",
         "city": "Tahliwal",
         "coordinates": [31.3492, 76.2682],
         "color": "red",
-        "type": "Food Processing"
+        "type": "Food Processing",
+        "img" : "https://1000logos.net/wp-content/uploads/2017/03/Nestle-Logo.png"
     },
     {
         "name": "Nestle India LTD",
         "city": "Bicholim",
         "coordinates": [15.5889, 73.9654],
         "color": "red",
-        "type": "Food Processing"
+        "type": "Food Processing",
+        "img" : "https://1000logos.net/wp-content/uploads/2017/03/Nestle-Logo.png"
     },
     {
         "name": "Nestle India LTD",
         "city": "Samalkha",
         "coordinates": [29.2405, 77.0118],
         "color": "red",
-        "type": "Food Processing"
+        "type": "Food Processing",
+        "img" : "https://1000logos.net/wp-content/uploads/2017/03/Nestle-Logo.png"
     },
     {
         "name": "Simple Foods Nagpur (Haldiram)",
         "city": "Nagpur",
         "coordinates": [21.1458, 79.0882],
         "color": "red",
-        "type":"Food Processing"
+        "type":"Food Processing",
+        "img": "https://i.ytimg.com/vi/6nP2kxxJiKU/maxresdefault.jpg"
     },
     {
         "name": "Britannia Industries Ltd.",
         "city": "Pune",
         "coordinates": [18.5204, 73.8567],
         "color": "red",
-        "type":"Food Processing"
+        "type":"Food Processing",
+        "img": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Britannia_Industries_logo.svg/1200px-Britannia_Industries_logo.svg.png"
     },
     {
         "name": "Rich Graviss Products Pvt. Ltd.",
         "city": "Pune",
         "coordinates": [18.5204, 74.3467],
         "color": "red",
-        "type":"Food Processing"
+        "type":"Food Processing",
+        "img": "https://www.richs.in/wp-content/uploads/2021/02/Richs-Logo-1-640x251.png"
     },
     {
         "name": "Rich Graviss Products Pvt. Ltd.",
         "city": "Chandigarh",
         "coordinates": [30.7333, 76.7794],
         "color": "red",
-        "type":"Food Processing"
+        "type":"Food Processing",
+        "img": "https://www.richs.in/wp-content/uploads/2021/02/Richs-Logo-1-640x251.png"
     },
     {
         "name": "United Brewery LTD. (Kingfisher)",
         "city": "Goa",
         "coordinates": [15.2993, 74.1240],
         "color": "orange",
-        "type":"Brewery"
+        "type":"Brewery",
+        "img": "https://upload.wikimedia.org/wikipedia/en/0/08/Kingfisher_beer_logo.png"
     },
     {
         "name": "United Brewery LTD. (Kingfisher)",
         "city": "Ludhiana",
         "coordinates": [30.9010, 75.8573],
         "color": "orange",
-        "type":"Brewery"
+        "type":"Brewery",
+        "img": "https://upload.wikimedia.org/wikipedia/en/0/08/Kingfisher_beer_logo.png"
     },
     {
         "name": "United Brewery LTD. (Kingfisher)",
         "city": "Banglore",
         "coordinates": [12.9716, 77.5946],
         "color": "orange",
-        "type":"Brewery"
+        "type":"Brewery",
+        "img": "https://upload.wikimedia.org/wikipedia/en/0/08/Kingfisher_beer_logo.png"
     },
     {
         "name": "Crown Beers India LTD.",
         "city": "Hyderabad",
         "coordinates": [17.3850, 78.4867],
         "color": "orange",
-        "type":"Brewery"
+        "type":"Brewery",
+        "img": "https://www.freepnglogos.com/uploads/budweiser-alcohol-logo-png-2.png"
     },
     {
         "name": "Mount Shivalikbrewery LTD.",
         "city": "Saha",
         "coordinates": [30.3006, 76.9672],
         "color": "orange",
-        "type":"Brewery"
+        "type":"Brewery",
+        "img": "https://www.preparedfoods.com/ext/resources/PF/PF-Images/MolsonCoors422.gif?height=168&t=1428340166&width=257"
     },
     {
         "name": "Mount Shivalikbrewery LTD.",
         "city": "Bhankarpur",
         "coordinates": [27.62695, 77.92356],
         "color": "orange",
-        "type":"Brewery"
+        "type":"Brewery",
+        "img": "https://www.preparedfoods.com/ext/resources/PF/PF-Images/MolsonCoors422.gif?height=168&t=1428340166&width=257"
     },
     {
         "name": "Som Breweries",
         "city": "Bhopal",
         "coordinates": [23.2599, 77.4126],
         "color": "orange",
-        "type":"Brewery"
+        "type":"Brewery",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNuyPeJT7zKLpnI-nZYFqdVmXWxRwGjqzegvf-W9Yi6XESt15vNLxlSaRLQV3PtkOsFOo&usqp=CAU"
     },
     {
         "name": "Som Breweries",
         "city": "Cuttack",
         "coordinates": [20.4625, 85.8830],
         "color": "orange",
-        "type":"Brewery"
+        "type":"Brewery",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNuyPeJT7zKLpnI-nZYFqdVmXWxRwGjqzegvf-W9Yi6XESt15vNLxlSaRLQV3PtkOsFOo&usqp=CAU"
     },
     {
         "name": "Kals Brewery PVT. LTD.",
         "city": "Trichy",
         "coordinates": [10.7905, 78.7047],
         "color": "orange",
-        "type":"Brewery"
+        "type":"Brewery",
+        "img": "https://hives.blob.core.windows.net/qcimages/trademark/7134439/imageshrine/fe13a6ee67a033a1fd6a5db6a19935ed.jpg"
     },
     {
         "name": "B9 Beverages PVT. LTD.",
         "city": "Nagpur",
         "coordinates": [21.1458, 78.0882],
         "color": "orange",
-        "type":"Brewery"
+        "type":"Brewery",
+        "img": "https://unlistedkart.com/wp-content/uploads/2022/10/Bira_Logo-Unlistedkart.webp"
     },
     {
         "name": "Carlsberg India PVT. LTD.",
         "city": "Sangareddy",
         "coordinates": [17.6075, 78.0798],
         "color": "orange",
-        "type":"Brewery"
+        "type":"Brewery",
+        "img": "https://www.carlsbergindia.com/media/15878/carlsberg-india_rgb.png"
     },
     {
         "name": "Asia Pacific Brewery LTD.",
         "city": "Sangareddy",
-        "coordinates": [17.6075, 77.0798],
+        "coordinates": [17.6075, 78.5798],
         "color": "orange",
-        "type":"Brewery"
+        "type":"Brewery",
+        "img": "https://2.bp.blogspot.com/-Wpm2TNXcTIE/WsGgKwOTbuI/AAAAAAAA9EI/FOWlgpffCucuXHjwBOotaEptE6I87qnygCLcBGAs/s1600/Heineken%2BLao%2BBrewery%2BCareers.jpg"
     },
     {
         "name": "SPR Distilleries",
         "city": "Banglore",
         "coordinates": [12.9716, 77.0],
         "color": "orange",
-        "type":"Brewery"
+        "type":"Brewery",
+        "img": "https://2.bp.blogspot.com/-cm7OZGwNURY/T3_LDnX488I/AAAAAAAAAOg/mhqY_ryw8xM/s320/SABMiller+Plc.jpg"
     },
     {
         "name": "Mount Everest Brewery LTD.",
         "city": "Indore",
         "coordinates": [22.7196,  75.8577],
         "color": "orange",
-        "type":"Brewery"
+        "type":"Brewery",
+        "img": "https://s3.amazonaws.com/zaubatrademarks/2879bad9-af41-4175-81bb-085ace3c4abc.png"
     },
     {
         "name": "Blossom Industries LTD.",
         "city": "Daman",
         "coordinates": [20.3974, 72.8328],
         "color": "orange",
-        "type":"Brewery"
+        "type":"Brewery",
+        "img": "https://assets.untappd.com/site/beer_logos_hd/beer-594995_07b82_hd.jpeg"
     },
     {
         "name": "Pearl Drinks LTD. (Pepsi)",
         "city": "Guntur",
         "coordinates": [16.3067, 80.4365],
         "color": "green",
-        "type":"Beverages"
+        "type":"Beverages",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Pepsi_2023.svg/1200px-Pepsi_2023.svg.png"
     },
     {
         "name": "Pearl Drinks LTD. (Pepsi)",
         "city": "Visakhapatnam",
         "coordinates": [17.6868, 83.2185],
         "color": "green",
-        "type":"Beverages"
+        "type":"Beverages",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Pepsi_2023.svg/1200px-Pepsi_2023.svg.png"
     },
     {
         "name": "Pran RFL Group",
         "city": "Bangladesh",
         "coordinates": [23.6850, 90.3563],
         "color": "green",
-        "type":"Beverages"
+        "type":"Beverages",
+        "img": "https://www.pranfoods.net//sites/all/themes/pranTheme/img/pran_logo.jpg"
     },
     {
         "name": "Hindustan Coca-Cola Beverages PVT. LTD.",
         "city": "Bedadi-Banglore",
         "coordinates": [12.7969, 77.3838],
         "color": "green",
-        "type":"Beverages"
+        "type":"Beverages",
+        "img": "https://www.exchange4media.com/news-photo/1501827535_O5NtoQ_69948.jpg"
     },
     {
         "name": "Hindustan Coca-Cola Beverages PVT. LTD.",
         "city": "Nashik",
         "coordinates": [19.9975, 73.7898],
         "color": "green",
-        "type":"Beverages"
+        "type":"Beverages",
+        "img": "https://www.exchange4media.com/news-photo/1501827535_O5NtoQ_69948.jpg"
     },
     {
         "name": "Hindustan Coca-Cola Beverages PVT. LTD.",
         "city": "Hospet",
         "coordinates": [15.2689, 76.3909],
         "color": "green",
-        "type":"Beverages"
+        "type":"Beverages",
+        "img": "https://www.exchange4media.com/news-photo/1501827535_O5NtoQ_69948.jpg"
     },
     {
         "name": "Hindustan Coca-Cola Beverages PVT. LTD.",
         "city": "khurda-bhubaneswar",
         "coordinates": [20.2961, 85.8245],
         "color": "green",
-        "type":"Beverages"
+        "type":"Beverages",
+        "img": "https://www.exchange4media.com/news-photo/1501827535_O5NtoQ_69948.jpg"
     },
     {
         "name": "Hindustan Coca-Cola Beverages PVT. LTD.",
         "city": "Tirunelveli Wada",
         "coordinates": [8.7139, 77.7567],
         "color": "green",
-        "type":"Beverages"
+        "type":"Beverages",
+        "img": "https://www.exchange4media.com/news-photo/1501827535_O5NtoQ_69948.jpg"
     },
     {
         "name": "Hindustan Coca-Cola Beverages PVT. LTD.",
         "city": "Kathmandu",
         "coordinates": [27.7172, 85.3240],
         "color": "green",
-        "type":"Beverages"
+        "type":"Beverages",
+        "img": "https://www.exchange4media.com/news-photo/1501827535_O5NtoQ_69948.jpg"
     },
     {
         "name": "Mehsana District Co-Operative Milk Producers Union LTD. (Amul)",
         "city": "Mehsana",
         "coordinates": [23.5880, 72.3693],
         "color": "purple",
-        "type":"Dairy"
+        "type":"Dairy",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Amul_official_logo.svg/1200px-Amul_official_logo.svg.png"
     },
     {
         "name": "Shri Warna Sahkari Dudh Sangh",
         "city": "Kohlapur",
         "coordinates": [16.7050, 74.2433],
         "color": "purple",
-        "type":"Dairy"
+        "type":"Dairy",
+        "img": "https://tiimg.tistatic.com/co_logo/10959934/shri-warana-sahakari-dudh-utpadak-prakriya-sangh-limited-v1.jpg"
     },
     {
         "name": "Shivamrut Dudh Sangh",
         "city": "Akluj",
         "coordinates": [17.8824, 75.0205],
         "color": "purple",
-        "type":"Dairy"
+        "type":"Dairy",
+        "img": "https://shivamrut.com/Content/img/1.jpg"
     },
     {
         "name": "Pran Dairy",
         "city": "Bangladesh",
         "coordinates": [23.6850, 91.3563],
         "color": "purple",
-        "type":"Dairy"
+        "type":"Dairy",
+        "img": "https://campaign.thedailystar.net/pranerbhasha/assets/img/pran_logo.png"
     },
     {
         "name": "Hatsun Agro Products LTD.",
         "city": "Salem",
         "coordinates": [11.6643, 78.1460],
         "color": "purple",
-        "type":"Dairy"
+        "type":"Dairy",
+        "img": "https://tmlogosave.s3.ap-south-1.amazonaws.com/5524192.jpeg"
     },
     {
         "name": "Hatsun Agro Products LTD.",
         "city": "Kanchipuram",
         "coordinates": [12.8185, 79.6947],
         "color": "purple",
-        "type":"Dairy"
+        "type":"Dairy",
+        "img": "https://tmlogosave.s3.ap-south-1.amazonaws.com/5524192.jpeg"
     },
     {
         "name": "Hatsun Agro Products LTD.",
         "city": "Chennai",
         "coordinates": [13.0827, 80.2707],
         "color": "purple",
-        "type":"Dairy"
+        "type":"Dairy",        
+        "img": "https://tmlogosave.s3.ap-south-1.amazonaws.com/5524192.jpeg"
     },
     {
         "name": "Parag Milk",
         "city": "Manchar",
         "coordinates": [19.0047, 73.9469],
         "color": "purple",
-        "type":"Dairy"
+        "type":"Dairy",
+        "img": "https://www.justgotochef.com/img/1521286330-Gowardhan-Cow%20Milk%20Gold-500ml-Logo%20.jpg"
     },
     {
         "name": "Godavari khore Dudh Sangha",
         "city": "Kopargaon",
         "coordinates": [19.8849, 74.4728],
         "color": "purple",
-        "type":"Dairy"
+        "type":"Dairy",
+        "img": "https://media.licdn.com/dms/image/C5603AQEmh_mvpmwwAg/profile-displayphoto-shrink_800_800/0/1516787888076?e=2147483647&v=beta&t=Z5wYcEFg8YVMZkYfRnGHiXcOKHp61s0XYmhIPqn-TGY"
     },
     {
         "name": "Rajhansa Dudh",
         "city": "Sangamner",
         "coordinates": [19.5761, 74.2070],
         "color": "purple",
-        "type":"Dairy"
+        "type":"Dairy",
+        "img": "https://play-lh.googleusercontent.com/WODexA4np1aFKBEMLoNE_wQ-D55KEzyYV7atrnwyM2mm668DrBIJ-XnJ-PXGUfW65Tc"
     },
     {
         "name": "Hatsun Agro Products LTD.",
         "city": "Krishnagiri",
         "coordinates": [12.5266, 78.2150],
         "color": "purple",
-        "type":"Dairy"
+        "type":"Dairy",        
+        "img": "https://tmlogosave.s3.ap-south-1.amazonaws.com/5524192.jpeg"
     }
 
 

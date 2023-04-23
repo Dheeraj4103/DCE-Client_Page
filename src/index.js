@@ -70,14 +70,19 @@ console.log(data.places);
 
 function card(place) {
   const content = document.createElement("div");
+  content.id = 'info'
 
   const h2 = document.createElement("h2");
   h2.textContent = place.name;
+
+  const img = document.createElement('img');
+  img.src = place.img;
 
   const address = document.createElement("p");
   address.textContent = place.city;
 
   content.appendChild(h2);
+  content.appendChild(img);
   content.appendChild(address);
 
   return content;

@@ -8,7 +8,6 @@
   </head>
   <body>
     <div class="slider">
-      
       <div class="content">
         <div class="principal">
           <h1>Our Clients</h1>
@@ -16,12 +15,16 @@
       </div>
     </div>
     <div id="map-content">
-      <h1 style="text-decoration: underline;">Projects executed by DCE across Indian Subcontinent *</h1>
-      <p>Map below highlights the range of refrigeration projects executed by DCE by all over India as well as neighboring countries in various sectors</p>
+      <h1 style="text-decoration: underline">
+        Projects executed by DCE across Indian Subcontinent *
+      </h1>
+      <p>
+        Map below highlights the range of refrigeration projects executed by DCE
+        by all over India as well as neighboring countries in various sectors
+      </p>
       <div id="map"></div>
       <div id="legend"></div>
     </div>
-   
 
     <!-- 
       The `defer` attribute causes the callback to execute after the full HTML
@@ -35,13 +38,47 @@
       defer
     ></script>
     <script>
-      (g=>{var h,a,k,p="The Google Maps JavaScript API",c="google",l="importLibrary",q="__ib__",m=document,b=window;b=b[c]||(b[c]={});var d=b.maps||(b.maps={}),r=new Set,e=new URLSearchParams,u=()=>h||(h=new Promise(async(f,n)=>{await (a=m.createElement("script"));e.set("libraries",[...r]+"");for(k in g)e.set(k.replace(/[A-Z]/g,t=>"_"+t[0].toLowerCase()),g[k]);e.set("callback",c+".maps."+q);a.src=`https://maps.${c}apis.com/maps/api/js?`+e;d[q]=f;a.onerror=()=>h=n(Error(p+" could not load."));a.nonce=m.querySelector("script[nonce]")?.nonce||"";m.head.append(a)}));d[l]?console.warn(p+" only loads once. Ignoring:",g):d[l]=(f,...n)=>r.add(f)&&u().then(()=>d[l](f,...n))})({
+      ((g) => {
+        var h,
+          a,
+          k,
+          p = "The Google Maps JavaScript API",
+          c = "google",
+          l = "importLibrary",
+          q = "__ib__",
+          m = document,
+          b = window;
+        b = b[c] || (b[c] = {});
+        var d = b.maps || (b.maps = {}),
+          r = new Set(),
+          e = new URLSearchParams(),
+          u = () =>
+            h ||
+            (h = new Promise(async (f, n) => {
+              await (a = m.createElement("script"));
+              e.set("libraries", [...r] + "");
+              for (k in g)
+                e.set(
+                  k.replace(/[A-Z]/g, (t) => "_" + t[0].toLowerCase()),
+                  g[k]
+                );
+              e.set("callback", c + ".maps." + q);
+              a.src = `https://maps.${c}apis.com/maps/api/js?` + e;
+              d[q] = f;
+              a.onerror = () => (h = n(Error(p + " could not load.")));
+              a.nonce = m.querySelector("script[nonce]")?.nonce || "";
+              m.head.append(a);
+            }));
+        d[l]
+          ? console.warn(p + " only loads once. Ignoring:", g)
+          : (d[l] = (f, ...n) => r.add(f) && u().then(() => d[l](f, ...n)));
+      })({
         key: "AIzaSyB41DRUbKWJHPxaFjMAwdrzWzbVKartNGg",
         // Add other bootstrap parameters as needed, using camel case.
         // Use the 'v' parameter to indicate the version to load (alpha, beta, weekly, etc.)
       });
     </script>
-    
+
     <script src="./bundle.js"></script>
   </body>
 </html>
