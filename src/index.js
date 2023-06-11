@@ -1,5 +1,26 @@
 import data from "./places.json" assert { type: "JSON" };
 
+const icons = {
+  Food_Processing: {
+    name: "Food Processing",
+    icon: "https://cdn-icons-png.flaticon.com/512/6542/6542893.png"
+  },
+  Brewery: {
+    name: "Brewery",
+    icon: `https://cdn-icons-png.flaticon.com/512/184/184482.png`,
+  },
+  Beverages: {
+    name: "Beverages",
+    icon: `https://cdn.iconscout.com/icon/premium/png-256-thumb/food-and-beverage-2520087-2113147.png`,
+  },
+  Dairy: {
+    name: "Dairy",
+    icon: `https://cdn-icons-png.flaticon.com/512/3050/3050158.png`,
+  }
+}
+
+console.log(icons["Food_Processing"]);
+
 function initMap() {
   const map = new google.maps.Map(document.getElementById("map"), {
     zoom: 5,
@@ -16,24 +37,8 @@ function initMap() {
 
   const legend = document.getElementById("legend");
 
-  const icons = {
-    food_processing: {
-      name: "Food Processing",
-      icon: `http://maps.google.com/mapfiles/ms/icons/red-dot.png`
-    },
-    Brewery: {
-      name: "Brewery",
-      icon: `http://maps.google.com/mapfiles/ms/icons/orange-dot.png`,
-    },
-    Beverages: {
-      name: "Beverages",
-      icon: `http://maps.google.com/mapfiles/ms/icons/green-dot.png`,
-    },
-    Dairy: {
-      name: "Dairy",
-      icon: `http://maps.google.com/mapfiles/ms/icons/purple-dot.png`,
-    }
-  };
+  
+  
 
   for (const key in icons) {
     const type = icons[key];
@@ -41,7 +46,7 @@ function initMap() {
     const icon = type.icon;
     const div = document.createElement("div");
 
-    div.innerHTML = '<img src="' + icon + '"> ' + name;
+    div.innerHTML = '<img src="' + icon + '" height=30px width=30px> ' + name;
     legend.appendChild(div);
   }
 
@@ -109,10 +114,12 @@ function setMarkers(map) {
       label: { text: i + 1, color: "black" },
       // content: pinViewBackground.element,
       icon: {
-        url: `http://maps.google.com/mapfiles/ms/icons/${place.color}-dot.png`
+        url: icons[place.type].icon,
+        scaledSize: new google.maps.Size(20, 20)
       }
       
     });
+    console.log(marker);
     // Change the background color.
 
 
