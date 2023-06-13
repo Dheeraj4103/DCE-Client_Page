@@ -7,15 +7,15 @@ const icons = {
   },
   Brewery: {
     name: "Brewery",
-    icon: `https://cdn-icons-png.flaticon.com/512/184/184482.png`,
+    icon: "https://cdn-icons-png.flaticon.com/512/184/184482.png"
   },
   Beverages: {
     name: "Beverages",
-    icon: `https://cdn.iconscout.com/icon/premium/png-256-thumb/food-and-beverage-2520087-2113147.png`,
+    icon: "https://cdn.iconscout.com/icon/premium/png-256-thumb/food-and-beverage-2520087-2113147.png"
   },
   Dairy: {
     name: "Dairy",
-    icon: `https://cdn-icons-png.flaticon.com/512/3050/3050158.png`,
+    icon: "https://cdn-icons-png.flaticon.com/512/3050/3050158.png"
   }
 }
 
